@@ -19,9 +19,9 @@
 
                     <div class="menu-derecha">
                         <a href="./index.php">Inicio</a>
-                        <a href="./laptos.php">Laptos</a>
-                        <a href="./hardware.php">Hardware</a>
-                        <a href="./accesorios.php">Accesorios</a>
+                        <a href="./laptops.php">Laptos</a>
+                        <a href="./componentes.php">Componentes</a>
+                        <a href="./perifericos_accesorios.php">Periféricos y Accesorios</a>
                     </div>
 
                 </menu>
