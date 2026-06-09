@@ -19,7 +19,7 @@
 
                     <div class="menu-derecha">
                         <a href="./index.php">Inicio</a>
-                        <a href="./laptops.php">Laptos</a>
+                        <a href="./laptops.php">Laptops</a>
                         <a href="./componentes.php">Componentes</a>
                         <a href="./perifericos_accesorios.php">Periféricos y Accesorios</a>
                     </div>
